@@ -132,6 +132,11 @@ Or fluently:
 
 When in doubt, refer to the [existing filters](https://github.com/kkroening/ffmpeg-python/blob/master/ffmpeg/_filters.py) and/or the [official ffmpeg documentation](https://ffmpeg.org/ffmpeg-filters.html).
 
+## JupyterLab / Notebook integration
+
+<img align="center" src="https://github.com/kkroening/ffmpeg-python/blob/jupanim/doc/jupyter-anim.gif" alt="jupyter" width="50%" />
+
+
 ## Contributing
 
 <img align="right" src="https://raw.githubusercontent.com/kkroening/ffmpeg-python/master/doc/logo.png" alt="ffmpeg-python logo" width="20%" />
